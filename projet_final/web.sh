@@ -1,5 +1,3 @@
-#!/bin/bash
-
 export HTTP_PROXY=http://${SQUID_IP}:3128
 export HTTPS_PROXY=http://${SQUID_IP}:3128
 
